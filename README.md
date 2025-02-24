@@ -33,6 +33,7 @@ To tackle this issue, we will follow a structured methodology:
 ### 📊 **Deployment & Visualization**
 - Build a **Tableau Dashboard** to communicate findings effectively.
 - Provide data-driven recommendations for management to implement retention strategies.
+- 📌 **[View the Tableau Dashboard here](https://public.tableau.com/views/DashboardRotacinEmpleados/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
 
 ---
 
