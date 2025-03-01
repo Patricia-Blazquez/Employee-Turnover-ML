@@ -1,5 +1,5 @@
 ## **Project Description**
-This project analyzes employee turnover rates within a company and implements a Machine Learning system to identify employees at risk of leaving. The goal is to understand key patterns and provide data-driven insights to reduce turnover and its associated costs.
+This project analyzes employee turnover rates within a company and implements a **Machine Learning** system to identify employees at risk of leaving. The goal is to understand key patterns and provide data-driven insights to reduce turnover and its associated costs.
 
 ---
 
